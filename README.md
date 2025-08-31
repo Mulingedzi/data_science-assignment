@@ -25,9 +25,9 @@ This repository contains solutions for two data science problems:
 - Evaluated using F1-score and cross-validation
 
 ### Results
-- F1 Score: [value]
-- Cross-validated F1: [value]
-- Potential fraud transactions identified: [value]
+- F1 Score: 0.0000
+- Cross-validated F1: 0.6666667
+- Potential fraud transactions identified: 18
 
 ## Installation
 ```bash

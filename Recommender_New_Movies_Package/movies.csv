@@ -1,0 +1,13 @@
+user_id,movie_title,genre,rating
+1,Inception,Sci-Fi|Thriller,5
+1,The Dark Knight,Action|Drama,4
+1,Interstellar,Sci-Fi|Adventure,5
+2,Inception,Sci-Fi|Thriller,4
+2,The Matrix,Sci-Fi|Action,5
+2,Avengers: Endgame,Action|Adventure,4
+3,The Dark Knight,Action|Drama,5
+3,The Matrix,Sci-Fi|Action,4
+3,Avatar,Adventure|Fantasy,4
+4,Interstellar,Sci-Fi|Adventure,4
+4,Avengers: Endgame,Action|Adventure,5
+4,Avatar,Adventure|Fantasy,3

@@ -16,7 +16,7 @@ This repository contains solutions for two data science problems:
 - RMSE: 158.97
 - R² Score: -0.2005
 - Cross-validated RMSE:  147.60
-
+ 1. e
 ## Problem 2: Fraud Detection
 ### Approach
 - K-Means clustering for anomaly detection in unlabeled data
